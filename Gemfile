@@ -41,7 +41,7 @@ gem 'redis', '~> 4.0.2'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
-gem 'sidekiq', '~> 5.2'
+gem 'sidekiq', '~> 7.0'
 gem 'sidekiq-cron', '~> 1.1'
 
 gem 'trailblazer', '2.1'
